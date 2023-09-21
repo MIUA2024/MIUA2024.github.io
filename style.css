@@ -102,6 +102,14 @@ iframe {
 	height: 100%;
 }
 
+/*------------------------
+[custom classes]
+*/
+
+.spec_sess_indent{
+	padding-left: 100px;
+}
+
 /*------------------------------------------------------------------
 [2. Typography]
 */
@@ -6676,12 +6684,4 @@ body.mobile .mobile-hidden {
 	.col-md-20{
 		width: 20% !important;
 	}
-}
-
-/*------------------------
-[custom classes]
-*/
-
-.spec_sess_indent{
-	padding-left: 100px;
 }
