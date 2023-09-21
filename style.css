@@ -6677,3 +6677,11 @@ body.mobile .mobile-hidden {
 		width: 20% !important;
 	}
 }
+
+/*------------------------
+[custom classes]
+*/
+
+.spec_sess_indent{
+	padding-left: 100px;
+}
