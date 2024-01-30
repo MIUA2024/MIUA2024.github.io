@@ -451,6 +451,7 @@ section,
 
 .main-header .nav-block {
 	display: none;
+	overflow-y: scroll;
 }
 
 .main-header .brand-block {
